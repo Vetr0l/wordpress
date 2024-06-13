@@ -8,3 +8,6 @@
 * HTML | CSS
 #### Посмотреть проект: https://uzyanbaev.github.io/wordpress/
 
+<hr>
+
+#### 📅 Creation date: 25.06.2023
